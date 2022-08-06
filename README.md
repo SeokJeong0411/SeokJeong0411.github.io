@@ -1,2 +1,2 @@
 # SeokJeong0411.github.io
-# This is my first web page.
+# 2022.08.06 일단 만들어 봄
